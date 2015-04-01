@@ -1,0 +1,229 @@
+[00:53:36] [main/INFO]: LiteLoader 1.7.10_01 starting up...
+[00:53:36] [main/INFO]: Java reports OS="windows 7"
+[00:53:36] [main/INFO]: Enumerating class path...
+[00:53:36] [main/INFO]: Class path separator=";"
+[00:53:36] [main/INFO]: Class path entries=(
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\ATLauncher.exe
+   classpathEntry=anything
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\jarmods\forge-1.7.10-10.13.0.1182-universal.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\launchwrapper-1.9.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\asm-all-4.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\akka-actor_2.11-2.3.3.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\config-1.2.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-compiler-2.11.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-library-2.11.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-reflect-2.11.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-xml_2.11-1.0.2.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\jopt-simple-4.5.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\lzma-0.0.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\guava-16.0.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-lang3-3.2.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\realms-1.3.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-compress-1.8.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\httpclient-4.3.3.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-logging-1.1.3.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\httpcore-4.3.2.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\vecmath-1.3.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\trove4j-3.0.3.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\icu4j-core-mojang-51.2.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\codecjorbis-20101023.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\codecwav-20101023.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\libraryjavasound-20101123.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\librarylwjglopenal-20100824.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\soundsystem-20120107.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\netty-all-4.0.10.Final.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-io-2.4.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-codec-1.9.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\jinput-2.0.5.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\jutils-1.0.0.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\gson-2.2.4.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\authlib-1.5.16.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\log4j-api-2.0-beta9.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\log4j-core-2.0-beta9.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\lwjgl-2.9.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\lwjgl_util-2.9.1.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\twitch-5.16.jar
+   classpathEntry=C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\minecraft.jar
+)
+[00:53:36] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[00:53:36] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods]
+[00:53:36] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\1.7.10]
+[00:53:36] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[00:53:36] [main/INFO]: Discovering tweaks on class path...
+[00:53:36] [main/INFO]: Discovering valid mod files in folder C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods
+[00:53:36] [main/INFO]: Considering valid mod file: C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod
+[00:53:36] [main/INFO]: Considering valid mod file: C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod
+[00:53:36] [main/INFO]: Considering valid mod file: C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod
+[00:53:36] [main/INFO]: Adding newest valid mod file 'C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod' at revision 1727.0000
+[00:53:36] [main/INFO]: Adding newest valid mod file 'C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod' at revision 1201.0000
+[00:53:36] [main/INFO]: Adding newest valid mod file 'C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod' at revision 37.0000
+[00:53:36] [main/INFO]: Discovering valid mod files in folder C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\1.7.10
+[00:53:36] [main/INFO]: Searching for tweaks in 'CodeChickenLib-1.7.10-1.1.1.95-universal.jar'
+[00:53:36] [main/WARN]: Error parsing manifest entries in 'C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\1.7.10\CodeChickenLib-1.7.10-1.1.1.95-universal.jar'
+[00:53:36] [main/INFO]: Searching for tweaks in 'ForgeMultipart-1.7.10-1.1.0.297-universal.jar'
+[00:53:36] [main/WARN]: Error parsing manifest entries in 'C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\1.7.10\ForgeMultipart-1.7.10-1.1.0.297-universal.jar'
+[00:53:36] [main/INFO]: Searching for tweaks in 'liteloader-1.7.10.jar'
+[00:53:36] [main/WARN]: Error parsing manifest entries in 'C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\1.7.10\liteloader-1.7.10.jar'
+[00:53:36] [main/INFO]: Searching for tweaks in '[1.7.10]bspkrsCore-universal-6.13.jar'
+[00:53:36] [main/WARN]: Error parsing manifest entries in 'C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\1.7.10\[1.7.10]bspkrsCore-universal-6.13.jar'
+[00:53:36] [main/INFO]: Mod file 'mod_voxelMap_1.2.1_for_1.7.10.litemod' provides classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer', adding to class loader
+[00:53:36] [main/INFO]: classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer' was successfully added
+[00:53:36] [main/INFO]: Mod file 'mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod' provides classTransformer 'com.mumfrey.worldeditwrapper.asm.InteractionTransformer', adding to class loader
+[00:53:36] [main/INFO]: classTransformer 'com.mumfrey.worldeditwrapper.asm.InteractionTransformer' was successfully added
+[00:53:36] [main/INFO]: Mod file 'liteloader-1.7.10.jar' provides tweakClass 'com.mumfrey.liteloader.launch.LiteLoaderTweaker', adding to Launch queue with priority 1000
+[00:53:36] [main/INFO]: LiteLoader PREINIT complete
+[00:53:37] [main/INFO]: Injecting event prerenderfbo with 1 handlers in method func_71411_J in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting event postrenderfbo with 1 handlers in method func_71411_J in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting event updateframebuffersize with 1 handlers in method func_147119_ah in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting method return callback for onStartupComplete in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onRender in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onTimerUpdate in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onAnimateTick in class net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: Applying overlay com.mumfrey.liteloader.client.overlays.MinecraftOverlay to net.minecraft.client.Minecraft
+[00:53:37] [main/INFO]: MinecraftOverlayTransformer found INIT injection point, this is good.
+[00:53:37] [main/INFO]: Injecting event sendchatmessage with 1 handlers in method func_71165_d in class net.minecraft.client.entity.EntityClientPlayerMP
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for onRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:37] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[00:53:39] [Client thread/INFO]: Injecting event renderfbo with 1 handlers in method func_147615_c in class net.minecraft.client.shader.Framebuffer
+[00:53:40] [Client thread/INFO]: Injecting method return callback for IntegratedServerCtor in class net.minecraft.server.integrated.IntegratedServer
+[00:53:40] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[00:53:40] [Client thread/INFO]: Successfully generated event handler proxy class with 5 handlers(s) and 5 total invokations
+[00:53:48] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.CustomPayloadPacketTransformer for gr
+[00:53:48] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.ServerCustomPayloadPacketTransformer for iz
+[00:53:48] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.JoinGamePacketTransformer for hd
+[00:53:48] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.ChatPacketTransformer for gj
+[00:53:48] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.ServerChatPacketTransformer for ir
+[00:53:48] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.LoginSuccessPacketTransformer for js
+[00:54:02] [Client thread/INFO]: Injecting profiler invokation callback for preRenderGUI in class net.minecraft.client.renderer.EntityRenderer
+[00:54:02] [Client thread/INFO]: Injecting profiler invokation callback for preRenderGUI in class net.minecraft.client.renderer.EntityRenderer
+[00:54:02] [Client thread/INFO]: Injecting profiler invokation callback for preRenderGUI in class net.minecraft.client.renderer.EntityRenderer
+[00:54:02] [Client thread/INFO]: Injecting profiler invokation callback for onRenderHUD in class net.minecraft.client.renderer.EntityRenderer
+[00:54:02] [Client thread/INFO]: Injecting profiler invokation callback for postRenderEntities in class net.minecraft.client.renderer.EntityRenderer
+[00:54:02] [Client thread/INFO]: Injecting profiler invokation callback for postRender in class net.minecraft.client.renderer.EntityRenderer
+[00:54:02] [Client thread/INFO]: Injecting profiler invokation callback for postRender in class net.minecraft.client.renderer.EntityRenderer
+[00:54:02] [Client thread/INFO]: Injecting profiler invokation callback for onSetupCameraTransform in class net.minecraft.client.renderer.EntityRenderer
+[00:54:04] [Client thread/INFO]: JInput Component Registry initialised, found 25 controller(s) 901 component(s)
+[00:54:04] [Client thread/INFO]: LiteLoader begin INIT...
+[00:54:04] [Client thread/INFO]: Injecting external mods into class path...
+[00:54:04] [Client thread/INFO]: Successfully injected mod file 'C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod' into classpath
+[00:54:04] [Client thread/INFO]: Injecting external mods into class path...
+[00:54:04] [Client thread/INFO]: Discovering mods on class path...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\ATLauncher.exe...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\jarmods\forge-1.7.10-10.13.0.1182-universal.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\launchwrapper-1.9.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\asm-all-4.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\akka-actor_2.11-2.3.3.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\config-1.2.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-actors-migration_2.11-1.1.0.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-compiler-2.11.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-continuations-library_2.11-1.0.2.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-continuations-plugin_2.11.1-1.0.2.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-library-2.11.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-parser-combinators_2.11-1.0.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-reflect-2.11.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-continuations-plugin_2.11.1-1.0.2.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\scala-xml_2.11-1.0.2.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\jopt-simple-4.5.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\lzma-0.0.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\guava-16.0.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-lang3-3.2.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\realms-1.3.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-compress-1.8.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\httpclient-4.3.3.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-logging-1.1.3.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\httpcore-4.3.2.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\vecmath-1.3.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\trove4j-3.0.3.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\icu4j-core-mojang-51.2.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\codecjorbis-20101023.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\codecwav-20101023.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\libraryjavasound-20101123.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\librarylwjglopenal-20100824.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\soundsystem-20120107.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\netty-all-4.0.10.Final.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-io-2.4.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\commons-codec-1.9.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\jinput-2.0.5.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\jutils-1.0.0.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\gson-2.2.4.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\authlib-1.5.16.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\log4j-api-2.0-beta9.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\log4j-core-2.0-beta9.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\lwjgl-2.9.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\lwjgl_util-2.9.1.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\twitch-5.16.jar...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\bin\minecraft.jar...
+[00:54:04] [Client thread/INFO]: Discovering mods in valid mod files...
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod...
+[00:54:04] [Client thread/INFO]: Found 1 potential matches
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod...
+[00:54:04] [Client thread/INFO]: Found 1 potential matches
+[00:54:04] [Client thread/INFO]: Searching C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod...
+[00:54:04] [Client thread/INFO]: Found 1 potential matches
+[00:54:04] [Client thread/INFO]: Discovering mods in valid mod files...
+[00:54:04] [Client thread/INFO]: Mod class discovery completed
+[00:54:04] [Client thread/INFO]: LiteLoader begin POSTINIT...
+[00:54:04] [Client thread/INFO]: Inhibiting sound handler reload
+[00:54:04] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientEvents for API LiteLoader core API
+[00:54:04] [Client thread/INFO]: Injecting method return callback for onPlayerLogin in class net.minecraft.server.management.ServerConfigurationManager
+[00:54:04] [Client thread/INFO]: Injecting method return callback for onPlayerLogout in class net.minecraft.server.management.ServerConfigurationManager
+[00:54:04] [Client thread/INFO]: Injecting method return callback for onSpawnPlayer in class net.minecraft.server.management.ServerConfigurationManager
+[00:54:04] [Client thread/INFO]: Injecting method return callback for onRespawnPlayer in class net.minecraft.server.management.ServerConfigurationManager
+[00:54:04] [Client thread/INFO]: Injecting event onblockclicked with 1 handlers in method func_73074_a in class net.minecraft.server.management.ItemInWorldManager
+[00:54:04] [Client thread/INFO]: Injecting event activateblockoruseitem with 1 handlers in method func_73078_a in class net.minecraft.server.management.ItemInWorldManager
+[00:54:04] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[00:54:04] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[00:54:04] [Client thread/INFO]: Discovered 3 total mod(s)
+[00:54:04] [Client thread/INFO]: Loading mod from com.mumfrey.worldeditwrapper.LiteModWorldEditWrapper
+[00:54:04] [Client thread/INFO]: Successfully added mod WorldEditWrapper version 1.2.0
+[00:54:04] [Client thread/INFO]: Adding "C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod" to active resource pack set
+[00:54:04] [Client thread/INFO]: Setting up "mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod" as mod resource pack with identifier "WorldEditWrapper"
+[00:54:04] [Client thread/INFO]: Successfully added "C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod" to active resource pack set
+[00:54:04] [Client thread/INFO]: Loading mod from com.mumfrey.worldeditcui.LiteModWorldEditCUI
+[00:54:04] [Client thread/INFO]: Successfully added mod WorldEditCUI version 1.7.10_00
+[00:54:04] [Client thread/INFO]: Adding "C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod" to active resource pack set
+[00:54:04] [Client thread/INFO]: Setting up "mod_worldeditcui_1.7.10_00_mc1.7.10.litemod" as mod resource pack with identifier "WorldEditCUI"
+[00:54:04] [Client thread/INFO]: Successfully added "C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod" to active resource pack set
+[00:54:04] [Client thread/INFO]: Loading mod from com.thevoxelbox.voxelmap.litemod.LiteModVoxelMap
+[00:54:04] [Client thread/INFO]: Successfully added mod VoxelMap version 1.2.1
+[00:54:04] [Client thread/INFO]: Adding "C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod" to active resource pack set
+[00:54:04] [Client thread/INFO]: Setting up "mod_voxelMap_1.2.1_for_1.7.10.litemod" as mod resource pack with identifier "VoxelMap"
+[00:54:04] [Client thread/INFO]: Successfully added "C:\Users\Rob\Documents\Minecraft Files\AT\Instances\DNSTechpack1710\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod" to active resource pack set
+[00:54:04] [Client thread/INFO]: Initialising mod WorldEditWrapper version 1.2.0
+[00:54:04] [Client thread/INFO]: WorldEdit jar exists, attempting to inject into classpath
+[00:54:04] [Client thread/INFO]: WorldEdit jar was successfully extracted
+[00:54:04] [Client thread/INFO]: Rhino JavaScript Engine jar exists, attempting to inject into classpath
+[00:54:04] [Client thread/INFO]: Rhino JavaScript Engine jar was successfully extracted
+[00:54:04] [Client thread/INFO]: Initialising mod WorldEditCUI version 1.7.10_00
+[00:54:04] [Client thread/INFO]: Initialising mod VoxelMap version 1.2.1
+[00:54:27] [Client thread/INFO]: Calling late init for mod WorldEditCUI
+[00:54:27] [Client thread/INFO]: Calling late init for mod VoxelMap
+[00:54:27] [Client thread/INFO]: Sound handler reload inhibit removed
+[00:54:27] [Client thread/INFO]: Reloading sound handler
+[00:57:42] [Netty IO #1/INFO]: Injecting event onclickedair with 1 handlers in method func_147346_a in class net.minecraft.network.NetHandlerPlayServer
+[00:57:42] [Netty IO #1/INFO]: Injecting event onclickedair with 1 handlers in method func_147350_a in class net.minecraft.network.NetHandlerPlayServer
+[00:58:42] [Server thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy$2
+[00:58:42] [Server thread/INFO]: Successfully generated event handler proxy class with 4 handlers(s) and 4 total invokations
+[01:35:02] [Client thread/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration

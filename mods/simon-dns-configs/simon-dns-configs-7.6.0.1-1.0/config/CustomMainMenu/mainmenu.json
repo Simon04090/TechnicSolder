@@ -1,0 +1,207 @@
+{
+    "images":
+    {
+		"title":
+        {
+            "image" : "dns:textures/logo.png",
+            "posX" : -115,
+            "posY" : 0,
+            "width" : 398,
+            "height" : 225,
+            "alignment" : "top_center"
+        },
+		
+		"title2":
+        {
+            "image" : "dns:textures/line.png",
+            "posX" : -50,
+            "posY" : 0,
+            "width" : 203,
+            "height" : 360,
+            "alignment" : "top_left"
+        }
+		
+
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text":"",
+            "posX":3,
+            "posY":35,
+            "width":125,
+            "height":30,
+            "imageWidth":757,
+            "imageHeight":102,
+            "texture":"dns:textures/singleplayer.png",
+            "alignment":"top_left",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+
+        },
+        
+        "multiplayer":
+        {
+            "text":"",
+            "posX":3,
+            "posY":70,
+            "width":130,
+            "height":25,
+            "imageWidth":681,
+            "imageHeight":102,
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            },
+            "texture":"dns:textures/multiplayer.png",
+            "alignment":"top_left"
+        },
+        
+        "mods":
+        {
+            "text":"",
+            "posX":3,
+            "posY":100,
+            "width":130,
+            "height":22,
+            "imageWidth":314,
+            "imageHeight":102,
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            },
+
+            "texture":"dns:textures/mods.png",
+            "alignment":"top_left"
+        },
+            
+        "options":
+        {
+            "text":"",
+            "posX":3,
+            "posY":130,
+            "width":130,
+            "height":22,
+            "imageWidth":450,
+            "imageHeight":102,
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            },
+            "texture":"dns:textures/options.png",
+            "alignment":"top_left"
+        },
+        
+        "quit":
+        {
+            "text":"",
+            "posX":3,
+            "posY":160,
+            "width":130,
+            "height":22,
+            "imageWidth":545,
+            "imageHeight":106,
+			"action" : 
+            {
+                "type" : "quit"
+            },
+            "texture":"dns:textures/quitgame.png",
+            "alignment":"top_left"
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 3,
+            "posY" : -23,
+            "width" : 20,
+            "height" : 20,
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            },
+			"alignment":"bottom_left"
+			
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 26,
+            "posY" : -23,
+            "width" : 20,
+            "height" : 20,
+			"action" : 
+            {
+                "type" : "refresh"
+            },
+			"alignment":"bottom_left"
+        },
+		
+        "title3":
+        {
+            "text":"",
+			"posX":110,
+            "posY":205,
+            "width":99,
+            "height":34,
+			"imageWidth":299,
+			"imageHeight":94,
+			"texture":"dns:textures/msd.png",
+            "alignment":"top_center",
+            "action" : 
+            {
+                "type" : "openLink",
+                                "link" : "https://minecraftserverdeals.com"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -2,
+            "alignment" : "bottom_right"
+        },
+        
+        "dns":
+        {
+            "text" : "DNS TP v7.6.0.1",
+            "posX" : 51,
+            "posY" : -15,
+            "color" : -2,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 150,
+            "posY" : -75,
+            "color" : -2,
+            "alignment" : "bottom_center"
+        },
+        
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "blur" : false,
+            "gradient" : false
+        }
+    }
+}

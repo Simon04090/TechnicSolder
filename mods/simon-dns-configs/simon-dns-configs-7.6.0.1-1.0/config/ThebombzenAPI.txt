@@ -1,0 +1,2 @@
+#ThebombzenAPI basic properties
+#Mon Mar 30 18:04:19 CEST 2015
